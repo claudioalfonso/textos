@@ -1,4 +1,4 @@
-Software livre móvel e colaborativo no combate ao trabalho precário na Amazônia.
+#*Software livre móvel e colaborativo no combate ao trabalho precário na Amazônia.*
 
 A região amazônica é uma região extremamente difícil para administrar em qualquer nível, seja tanto pelo seu tamanho colossal quanto pelas dificuldades de acesso e de comunicação em função de sua estrutura precária de estradas e telecomunicações. Esse fato torna a região muito suscetível a todo tipo de violação de direitos humanos, ambientais, trabalhistas, etc. Além desses  temos a fragilidade da presença do estado que mesmo nas capitais tem estrutura física e humana muito aquém do mínimo necessário.
 
