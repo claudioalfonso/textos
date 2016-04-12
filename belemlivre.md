@@ -1,6 +1,6 @@
-Proposta Belém, cidade livre.
-<br/>
-Política pública municipal de uso e promoção de tecnologias livres e seu meio ambiente.<br />
+#*Proposta Belém, cidade livre.*
+
+##*Política pública municipal de uso e promoção de tecnologias livres e seu meio ambiente.*
 
 As tecnologias livres são todas aquelas tecnologias informacionais ou não desenvolvidas de forma colaborativa e distribuídas através de licenças abertas permitindo o seu livre aprendizado, modificação, distribuição e uso.
 
@@ -8,8 +8,8 @@ Por serem livres essas tecnologias incentivam a difusão de conhecimento, a cola
 
 Para incentivar o desenvolvimento dessas tecnologias convém criar políticas e ações do poder público municipal que contemplem todo o meio ambiente das tecnologias livres tanto dentro da esfera do poder público quanto na sociedade priorizando a cooperação junto as empresas e organizações locais. Como sugestões para essas ações e politicas temos as  seguintes propostas:
 
-Criação de locais como laboratórios digitais, hackerspaces e fablabs, onde o conhecimento e as tecnologias possam ser compartilhadas e desenvolvidas de forma livre e colaborativa;
-Iluminação dos espaços públicos como praças, escolas, bibliotecas e demais locais, com conexão de dados livre e aberta fundamentalmente nas periferias e na região das ilhas;
+* Criação de locais como laboratórios digitais, hackerspaces e fablabs, onde o conhecimento e as tecnologias possam ser compartilhadas e desenvolvidas de forma livre e colaborativa;
+* Iluminação dos espaços públicos como praças, escolas, bibliotecas e demais locais, com conexão de dados livre e aberta fundamentalmente nas periferias e na região das ilhas;
 Em regiões especificas como as ilhas de Belém podem ser criadas plataformas itinerantes de tecnologias sociais livres como o Pópópó Hacker (embarcação com materiais e equipamentos para a inclusão digital)
 Nas periferias utilizar plataformas iinerantes como a Van Hacker (veículo terrestre com equipamentos e materiais para inclusão digital)
 Criação de políticas para ocupação e uso desses espaços de inovação e colaboração através de editais públicos que contemplem as novas formas de organização não formais e formais dos movimentos que trabalham com tecnologias livres;
