@@ -1,4 +1,4 @@
-Mapeamento colaborativo e realidade aumentada geolocalizada com software livre.
+#**Mapeamento colaborativo e realidade aumentada geolocalizada com software livre.**
 
 Mapeamento colaborativo e realidade aumentada geolocalizada são dois tipos de tecnologias que se complementam no sentido de criar ferramentas para o controle do espaço geográfico por parte da própria população que mora ou circula por aquele espaço, democratizando as informações socialmente relevantes para a vida dessas pessoas.
 
